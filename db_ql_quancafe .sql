@@ -41,8 +41,8 @@ CREATE TABLE `account` (
 
 INSERT INTO `account` (`ID`, `username`, `password`, `name`) VALUES
 (1, 'admin', 'admin', 'Admin'),
-(2, 'huy123', '123456', 'Huy'),
-(3, 'son123', '123456', 'Son');
+(2, 'toan123', '123456', 'toan'),
+(3, 'bao123', '123456', 'bao');
 
 -- --------------------------------------------------------
 
